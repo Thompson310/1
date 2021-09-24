@@ -2,8 +2,8 @@
  
 <body>
   <h1>Michael Thompson</h1>
-  <p>Welcome To The End!</p>
-  <img src="https://content.codecademy.com/articles/github-pages-via-web-app/happy-ice-cream.gif" />
+  <p>Welcome To The Number One Website!</p>
+  <img src="https://i.giphy.com/media/3ogwG4ktaHI9N7V1WE/giphy.webp" />
 </body>
  
 </html>
