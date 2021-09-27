@@ -28,7 +28,7 @@
       <tr>
         <td>Crusader Kings 2</td>
         <td>8</td>
-        <td>Good w/ DLC</td>
+        <td>Good w/ DLC (very expensive tho)</td>
       </tr>
       <tr>
         <td>Crusader Kings 3</td>
