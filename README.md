@@ -18,32 +18,32 @@
       <tr>
         <td>Stellaris</td>
         <td>9</td>
-        <td>Package Items</td>
+        <td>Personal favorite</td>
       </tr>
       <tr>
         <td>Hearts Of Iron 4</td>
         <td>8.5</td>
-        <td>Send Invoice</td>
+        <td>Best "modern" strategy game</td>
       </tr>
       <tr>
         <td>Crusader Kings 2</td>
         <td>7</td>
-        <td>Send Invoice</td>
+        <td>Good w/ DLC</td>
       </tr>
       <tr>
         <td>Crusader Kings 3</td>
         <td>7.5 - 8.5</td>
-        <td>Ship</td>
+        <td>Better than 2</td>
       </tr>
       <tr>
         <td>Europa Univeralis 4</td>
         <td>7</td>
-        <td>Ship</td>
+        <td>Good for those liking "long term" play</td>
       </tr>
       <tr>
         <td>Imperator: Rome</td>
-        <td>7.5</td>
-        <td>Enter Order</td>
+        <td>?</td>
+        <td>Still need to play</td>
       </tr>
     </tbody>
     <tfoot>
