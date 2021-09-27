@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html>
-   <style>
-      html {
+   <head>
+     <style>
+        html {
         font-family: sans-serif;
       }
 
@@ -9,10 +10,10 @@
         color: #0c0;
         text-decoration: underline;
       } 
-    </style>
-  <header>
+      </style>
+
      <h1>Michael Thompson</h1>
-  </header>
+  </head>
   <body>
       <p>Hello World.</p>
       <img src="https://i.giphy.com/media/3ogwG4ktaHI9N7V1WE/giphy.webp" />
