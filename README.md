@@ -37,7 +37,7 @@
       </tr>
       <tr>
         <td>Europa Univeralis 4</td>
-        <td>7</td>
+        <td>7.5</td>
         <td>Good for those liking "long term" play</td>
       </tr>
       <tr>
@@ -48,7 +48,7 @@
     </tbody>
     <tfoot>
        <td>Overall Score</td>
-       <td>8.5</td>
+       <td>8</td>
     </tfoot>
   </table>
   </body>
