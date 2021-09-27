@@ -5,7 +5,7 @@
         font-family: sans-serif;
       }
 
-      ins, [role="insertion"] {
+      {
         color: #0c0;
         text-decoration: underline;
       } 
