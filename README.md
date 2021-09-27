@@ -27,12 +27,12 @@
       </tr>
       <tr>
         <td>Crusader Kings 2</td>
-        <td>7</td>
+        <td>8</td>
         <td>Good w/ DLC</td>
       </tr>
       <tr>
         <td>Crusader Kings 3</td>
-        <td>7.5 - 8.5</td>
+        <td>8.5</td>
         <td>Better than 2</td>
       </tr>
       <tr>
